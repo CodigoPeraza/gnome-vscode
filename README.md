@@ -1,5 +1,16 @@
 # gnome-vscode ❤
 Repositorio para uso personal, acá tendré mis configuraciones personalizadas de VsCode
+![imagen](https://github.com/user-attachments/assets/c236abba-fe78-4bc4-a851-4bf8dfa2ae15)
+
+## Instalación:
+1. En VScode instala las extensiones (descritas mas abajo)
+3. ctrl + shift + P (derecho)
+4. escribe settings.json (abrir el archivo de configuracion JSON del usuario)
+5. pegar el contenido del archivo `settings.json` en este repositorio (default en la raiz).
+6. guardar (ctrl + S)
+
+
+
 
 ## Extensiones
  - Adwaita
