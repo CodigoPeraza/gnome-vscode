@@ -1,5 +1,5 @@
 # gnome-vscode ❤
-Repositorio para uso personal, acá tendré mis configuraciones personalizadas de VsCode
+Repositorio para uso personal, acá tendré mis configuraciones personalizadas de VsCode, favor leer todos los apartados.
 ![imagen](https://github.com/user-attachments/assets/c236abba-fe78-4bc4-a851-4bf8dfa2ae15)
 
 ## Instalación:
@@ -8,8 +8,6 @@ Repositorio para uso personal, acá tendré mis configuraciones personalizadas d
 4. escribe settings.json (abrir el archivo de configuracion JSON del usuario)
 5. pegar el contenido del archivo `settings.json` en este repositorio (default en la raiz).
 6. guardar (ctrl + S)
-
-
 
 
 ## Extensiones
@@ -37,3 +35,15 @@ Repositorio para uso personal, acá tendré mis configuraciones personalizadas d
     - Version: 3.8.0
     - Publisher: Mhammed Talhaouy
     - VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=tal7aouy.icons
+## Fuentes
+- Iosevka: http://be5invis.github.io/Iosevka
+**Intalación:**
+  Fedora:
+  1. ```bash
+     sudo dnf copr enable peterwu/iosevka
+     ```
+  2. ```bash
+     sudo dnf install iosevka-fixed-fonts.noarch iosevka-term-fonts.noarch
+     ```
+
+  
