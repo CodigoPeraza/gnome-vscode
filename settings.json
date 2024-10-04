@@ -1,0 +1,33 @@
+{
+    "workbench.colorTheme": "Adwaita Dark & default syntax highlighting & colorful status bar",
+    "window.titleBarStyle": "custom",
+    "window.commandCenter": true,
+    "window.autoDetectColorScheme": true,
+    "workbench.preferredDarkColorTheme": "Adwaita Dark",
+    "workbench.productIconTheme": "adwaita",
+    "editor.renderLineHighlight": "none",
+    "workbench.iconTheme": "icons",
+    "workbench.tree.indent": 12,
+    "window.menuBarVisibility": "compact",
+    "workbench.startupEditor": "none",
+    "editor.fontVariations": false,
+    "editor.fontFamily": "'Iosevka Fixed', monospace",    "editor.fontLigatures": "true",
+    "workbench.preferredLightColorTheme": "Gnome Light (Atom One)",
+    //-- Customización por condición: Cursiva-Italic 
+    "editor.tokenColorCustomizations": {
+        "textMateRules": [
+            {
+                "scope":[
+                    //"comment",
+                    "entity.name.class",
+                    "storage.type",
+                    "variable.parameter",
+                    //"meta.function-call"
+                ],
+                "settings": {
+                    "fontStyle": "italic bold"
+                }
+            }
+        ]
+    }
+}
