@@ -37,7 +37,7 @@ Repositorio para uso personal, acá tendré mis configuraciones personalizadas d
     - VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=tal7aouy.icons
 ## Fuentes
 - Iosevka: http://be5invis.github.io/Iosevka
-**Intalación:**
+ - **Intalación:**
   Fedora:
   1. ```bash
      sudo dnf copr enable peterwu/iosevka
