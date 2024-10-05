@@ -1,5 +1,6 @@
 # gnome-vscode ❤
 Repositorio para uso personal, acá tendré mis configuraciones personalizadas de VsCode, favor leer todos los apartados.
+- Sistema operativo: GNU/Linux Fedora 🩵
 ![imagen](https://github.com/user-attachments/assets/c236abba-fe78-4bc4-a851-4bf8dfa2ae15)
 
 ## Instalación:
